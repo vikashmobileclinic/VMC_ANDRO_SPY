@@ -1,0 +1,29 @@
+Requirement->
+ First Open Port 80 And 22222
+ Install Nodejs
+ Install Java JDK 9
+-------------------------------
+Open Nodejs Command Pronptand run these commands->
+
+cd c:
+git clone https://github.com/vikashmobileclinic/VMC_ANDRO_SPY.git
+cd C:\VMC_ANDRO_SPY\server
+npm install pm2 -g
+npm install
+pm2 start index.js
+
+Server Ready Open->
+http://<SERVER IP or URL Like http://localhost
+
+
+To add On Startup On Windows-> 
+ pm2 startup
+
+
+To Stop -> 
+ pm2 stop index
+
+To Restart Seerver->
+ pm2 restart all
+
+
