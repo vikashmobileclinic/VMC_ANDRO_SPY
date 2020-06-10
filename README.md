@@ -26,8 +26,6 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
  - NodeJs 
  - A Server 
 
-## Installation on Heroku [Click Here](https://github.com/vikashmobileclinic/VMC_ANDRO_SPY/blob/herooku/README.md)
-
   Video Tutorial for Heroku [Click Here](https://youtu.be/IoJGFZWCPko)
 
 ## Installation on VPS or Server
