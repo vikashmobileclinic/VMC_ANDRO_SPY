@@ -21,7 +21,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 - Built In APK Builder
 
 ## Prerequisites 
- - Java Runtime Environment 9+
+ - Java Runtime Environment jre-8u251-windows-x64
     - See [installation](#Installation) for OS specifics
  - NodeJs 
  - A Server 
